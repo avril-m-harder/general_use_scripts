@@ -14,6 +14,7 @@
 #    -- project directory (of same name as script) in /home/
 #    -- /input/ and /output/ subdirs within project dir
 #
+# --------------------------------------
 # Can also be used in an alias in home/.alias by adding...
 ### "script () {'" 
 # ... before the shebang and... 
@@ -21,6 +22,7 @@
 ###	nano blank.sh
 ###	}'"
 # ... to the last line.
+# --------------------------------------
 
 ##  Set username
 USER=aubaxh002
