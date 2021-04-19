@@ -17,7 +17,7 @@
 # --------------------------------------
 # Can also be used in an alias in home/.alias by adding...
 ### script () {
-### echo ' 
+###   echo ' 
 # ... before the shebang and... 
 ### ' >> blank.sh
 ###	nano blank.sh
